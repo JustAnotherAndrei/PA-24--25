@@ -1,0 +1,4 @@
+package com.example.dotsgame.utils;
+
+public class ImageExporter {
+}
